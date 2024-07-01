@@ -37,8 +37,11 @@ Tools:
 📫 Get in Touch:
 
 📧 Email: codeguy2024@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/apoorv-mehrotra-089947288/
+
 📸 Instagram: https://www.instagram.com/unique.overload_happiness/?hl=en
+
 💻 LeetCode: https://leetcode.com/u/APOORVMEHROTRA1/
 
 
@@ -47,8 +50,6 @@ Tools:
 🎮 I spend my free time diving into the latest mobile games.
 🕹️ I love creating unique and exciting games for mobile platforms.
 
-
-![SoExcited~GIF](https://github.com/programmerbeast2004/programmerbeast2004/assets/142567279/30b88233-f5eb-46e3-a908-6c2495a3553d)
 
 ![DarkBrandonGIF](https://github.com/programmerbeast2004/programmerbeast2004/assets/142567279/2d1c2855-c9b8-41ad-8e53-d2bec8fcd874)
 
