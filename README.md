@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="rocket.webp" alt="Banner"></a>
+</p>
 
 Hey there! I'm Apoorv Mehrotra👋
 
