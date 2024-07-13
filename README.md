@@ -1,7 +1,7 @@
 <p align="center">
 <img src="rocket.webp" alt="Banner"></a>
 </p>
-![Cool Animation](https://github.com/programmerbeast2004/programmerbeast2004/blob/main/8wsr3y.gif)
+![Cool Animation](https://github.com/programmerbeast2004/programmerbeast2004/blob/row/8wsr3y.gif)
 
 
 Hey there! I'm Apoorv Mehrotra👋
