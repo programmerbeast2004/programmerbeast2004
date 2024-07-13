@@ -1,6 +1,8 @@
 <p align="center">
 <img src="rocket.webp" alt="Banner"></a>
 </p>
+![8wsr3y](https://github.com/user-attachments/assets/e8fd92ca-fd8a-47de-a0f2-b44825b2a7df)
+
 
 Hey there! I'm Apoorv Mehrotra👋
 
