@@ -17,10 +17,6 @@ Hey there! I'm Apoorv Mehrotra👋
 🌐 Active in the best coding communities, constantly learning and growing.
 
 
-💼 Projects
-
-
-
 🛠️ Skills
 
 Languages:
@@ -28,10 +24,12 @@ Languages:
 🐍 Python
 🌐 JavaScript
 💻 C++
+
 Technologies:
 🔥 PyTorch
 🌍 Node.js
 ⚛️ React
+
 Tools:
 🛠️ Git
 🚀 Vercel
