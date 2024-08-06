@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i-download.imgflip.com/8wsr3y.gif" alt="Cool GIF">
+  <img src="https://github.com/programmerbeast2004/programmerbeast2004/blob/main/8wsr3y.gif" alt="Cool GIF">
 </p>
 
 Hey there! I'm Apoorv Mehrotra👋
