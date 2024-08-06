@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github.com/programmerbeast2004/programmerbeast2004/blob/main/8wsr3y.gif" alt="Cool GIF">
 </p>
-
+<p align="center">
 Hey there! I'm Apoorv Mehrotra👋
 
 🚀 About Me
@@ -51,7 +51,7 @@ Tools:
 
 - 🎮 I spend my free time diving into the latest mobile games.
 - 🕹️ I love creating unique and exciting games for mobile platforms.
-
+<p>
 <p align="center">
   <img src="https://github.com/programmerbeast2004/programmerbeast2004/assets/142567279/2d1c2855-c9b8-41ad-8e53-d2bec8fcd874" alt="DarkBrandonGIF">
 </p>
