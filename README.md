@@ -2,7 +2,7 @@
 <img src="rocket.webp" alt="Banner"></a>
 </p>
 
-<p align="center">![Programmerbeast2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&theme=radical)</p>
+![Programmerbeast2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&theme=radical)
 
 
 
@@ -61,6 +61,6 @@ Tools:
 
 ![DarkBrandonGIF](https://github.com/programmerbeast2004/programmerbeast2004/assets/142567279/2d1c2855-c9b8-41ad-8e53-d2bec8fcd874)
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@prvmehrotra40803/30-nites-of-code)  
-  ![@prvmehrotra40803 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=prvmehrotra40803)
+//## #30NitesOfCode:
+  //[Check out my progress!](https://www.codedex.io/@prvmehrotra40803/30-nites-of-code)  
+  //![@prvmehrotra40803 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=prvmehrotra40803)
