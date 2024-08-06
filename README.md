@@ -2,8 +2,10 @@
 <img src="rocket.webp" alt="Banner"></a>
 </p>
 
-![Programmerbeast2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&theme=radical" alt="Programmerbeast2004's GitHub stats">
+</p>
 
 
 Hey there! I'm Apoorv Mehrotra👋
