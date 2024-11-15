@@ -1,7 +1,7 @@
 <p align="center">
   <img src="rocket.webp" alt="Banner">
 </p>
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 <div align=centre">
 <table style="background-color: orange" border="1">
   <tr>
