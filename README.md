@@ -3,25 +3,19 @@
   <img src="./github-header-image.png" alt="Apoorv Mehrotra Header" width="100%">
 </p>
 
-<!-- Rocket Image -->
-<p align="center">
-  <img src="rocket.webp" alt="Banner">
-</p>
-
-<!-- Cool Animation GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlPjezGYj5z2bGo/giphy.gif" alt="Cool Animation" width="150" />
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=435&lines=Hello%2C+I'm+Apoorv+Mehrotra!;Data+Scientist+in+the+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
+<!-- Rocket Image -->
+<p align="center">
+  <img src="rocket.webp" alt="Banner">
+</p>
+
+
 <!-- About Me Section -->
 <div align="left">
-  
-Hey there! I'm Apoorv Mehrotra👋
   
 🚀 About Me
 
