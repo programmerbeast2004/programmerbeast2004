@@ -2,6 +2,10 @@
   <img src="./github-header-image.png" alt="Apoorv Mehrotra Header">
 </p>
 
+<p align="center">
+  <img src="rocket.webp" alt="Rocket Banner">
+</p>
+
 <div align="center">
   <table style="background-color: orange" border="1">
     <tr>
@@ -64,4 +68,4 @@
 
 <p align="center">
   <img src="https://github.com/programmerbeast2004/programmerbeast2004/assets/142567279/2d1c2855-c9b8-41ad-8e53-d2bec8fcd874" alt="DarkBrandonGIF">
-</p>
+</
