@@ -73,11 +73,6 @@ Tools:
   </table>
 </div>
 
-<!-- Music Section with Link -->
-<p align="center">
-  🎶 [Listen to music while you explore my profile!](https://open.spotify.com/track/{TRACK_ID}) 🎶
-</p>
-
 <!-- SVG Wave Animation Footer -->
 <p align="center">
   <img src="/wave (1).svg" alt="Wave Animation" width="100%" />
