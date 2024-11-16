@@ -80,5 +80,5 @@ Tools:
 
 <!-- SVG Wave Animation Footer -->
 <p align="center">
-  <img src="/wave.svg" alt="Wave Animation" width="100%" />
+  <img src="/wave (1).svg" alt="Wave Animation" width="100%" />
 </p>
