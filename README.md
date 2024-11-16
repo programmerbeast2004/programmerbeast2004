@@ -80,5 +80,5 @@ Tools:
 
 <!-- SVG Wave Animation Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repository-name/main/assets/wave.svg" alt="Wave Animation" width="100%" />
+  <img src="/wave.svg" alt="Wave Animation" width="100%" />
 </p>
