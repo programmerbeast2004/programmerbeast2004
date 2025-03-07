@@ -1,77 +1,58 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="./github-header-image.png" alt="Apoorv Mehrotra Header" width="100%">
-</p>
+<h1 align="center">Hi, I'm Apoorv Mehrotra! 👋</h1>
+<h3 align="center">A passionate developer exploring new technologies to enhance my skills and build innovative solutions.</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&width=435&lines=Hello%2C+I'm+Apoorv+Mehrotra!;Data+Scientist+in+the+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Data+Scientist+in+the+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <!-- Rocket Image -->
 <p align="center">
-  <img src="rocket.webp" alt="Banner">
+  <img src="rocket.webp" alt="Banner" width="100%">
 </p>
 
-
-<!-- About Me Section -->
-<div align="left">
-  
-🚀 About Me
-
-- 🎓 Currently pursuing a BTech in Computer Science and Engineering with a specialization in AI, ML, and IoT.
-- 🎯 Aspiring to become a Data Scientist.
-- 🎮 Passionate about playing and creating mobile games.
-- 🌐 Active in the best coding communities, constantly learning and growing.
-  
-🛠️ Skills
-
-Languages:
-
-- ☕ Java
-- 🐍 Python
-- 🌐 JavaScript
-- 💻 C++
-  
-Technologies:
-
-- 🔥 PyTorch
-- 🌍 Node.js
-- ⚛️ React
-  
-Tools:
-
-- 🛠️ Git
-- 🚀 Vercel
-  
-🌐 I love to connect with the awesome coding communities ❤️🧑🏻‍💻
-
-📫 Get in Touch:
-
-- 📧 Email: codeguy2024@gmail.com
-- 💼 LinkedIn: [Apoorv Mehrotra](https://www.linkedin.com/in/apoorv-mehrotra-089947288/)
-- 📸 Instagram: [unique.overload_happiness](https://www.instagram.com/unique.overload_happiness/?hl=en)
-- 💻 LeetCode: [APOORVMEHROTRA1](https://leetcode.com/u/APOORVMEHROTRA1/)
-  
-🎉 Fun Facts:
-
-- 🎮 I spend my free time diving into the latest mobile games.
-- 🕹️ I love creating unique and exciting games for mobile platforms.
-</div>
-
-<!-- GitHub Stats and Cool GIF Section -->
+<!-- GitHub Stats Section -->
 <div align="center">
-  <table style="background-color: orange" border="1">
-    <tr>
-      <td align="left">
-        <img src="https://github.com/programmerbeast2004/programmerbeast2004/blob/main/8wsr3y.gif" alt="Cool GIF">
-      </td>
-      <td align="right">
-        <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&theme=radical" alt="Programmerbeast2004's GitHub stats">
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="340" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="340" alt="Top Languages"/>
 </div>
+
+<table width="100%" align="center">
+  <tr>
+    <!-- Left Side: GIF -->
+    <td width="40%" style="text-align: center; vertical-align: middle;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ24xZjZ0ZGYwczNtd3N3a3d4NnE1cW50enFid2VoaDBpcmM5YWd6NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="Coding GIF" />
+    </td>
+    <!-- Right Side: Tech Stack & Socials -->
+    <td width="60%" style="text-align: center; vertical-align: middle;">
+      <h2>💻 Tech Stack</h2>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="CSS3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="50" alt="Android" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50" alt="Arduino" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="Java" />
+      </p>
+      <h2>🌍 Connect with Me</h2>
+      <p>
+        <a href="https://www.instagram.com/sopln_apoorv.mehrotra/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
+        </a>
+        <a href="https://discord.com/users/mr._.0._.0._." target="_blank">
+          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
+        </a>
+        <a href="https://www.linkedin.com/in/apoorv-mehrotra-089947288/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- SVG Wave Animation Footer -->
 <p align="center">
