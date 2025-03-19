@@ -8,23 +8,24 @@
 
 <!-- Rocket Image -->
 <p align="center">
-  <img src="rocket.webp" alt="Banner" width="100%">
+  <img src="rocket.webp" alt="Banner" width="100%" style="max-width: 800px; height: auto;"/>
 </p>
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="340" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="340" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" width="100%" style="max-width: 500px; height: auto;" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=dracula&hide_border=false" width="100%" style="max-width: 500px; height: auto;" alt="Top Languages"/>
 </div>
 
-<table width="100%" align="center">
+<!-- Tech Stack & Socials -->
+<table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
     <!-- Left Side: GIF -->
-    <td width="40%" style="text-align: center; vertical-align: middle;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ24xZjZ0ZGYwczNtd3N3a3d4NnE1cW50enFid2VoaDBpcmM5YWd6NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="Coding GIF" />
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ24xZjZ0ZGYwczNtd3N3a3d4NnE1cW50enFid2VoaDBpcmM5YWd6NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" style="max-width: 300px; height: auto;" alt="Coding GIF" />
     </td>
     <!-- Right Side: Tech Stack & Socials -->
-    <td width="60%" style="text-align: center; vertical-align: middle;">
+    <td width="60%" align="center">
       <h2>💻 Tech Stack</h2>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript" />
@@ -56,5 +57,5 @@
 
 <!-- SVG Wave Animation Footer -->
 <p align="center">
-  <img src="/wave (1).svg" alt="Wave Animation" width="100%" />
+  <img src="/wave (1).svg" alt="Wave Animation" width="100%" style="max-width: 800px; height: auto;"/>
 </p>
