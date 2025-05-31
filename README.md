@@ -54,6 +54,8 @@
     </td>
   </tr>
 </table>
+<div align="center">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=nightowl&animated=true"width="100%" style="max-width: 500px; height: auto; alt="LeetCode Badges" />
 
 <!-- SVG Wave Animation Footer -->
 <p align="center">
