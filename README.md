@@ -85,8 +85,8 @@
 
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" style="max-width: 280px;" alt="Coding Dev" />
+    <td width="50%" align="center">
+      <img src="dev.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
     </td>
     <td width="60%" align="center">
       <img src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=nightowl&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
@@ -109,5 +109,5 @@
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/programmerbeast2004/programmerbeast2004/main/wave%20(1).svg" width="100%" />
+  <img src="ban.png" width="100%" />
 </p>
