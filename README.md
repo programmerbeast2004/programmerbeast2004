@@ -1,6 +1,6 @@
 
 <!-- Title Section -->
-
+<img src="head.gif" alt="Banner" width="100%" style="height: auto;" />
 
 <!-- Typing Animation -->
 <p align="center">
