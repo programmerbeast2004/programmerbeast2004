@@ -135,6 +135,9 @@
 ---
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=programmerbeast2004&label=FANS&color=blue&style=flat" alt="programmerbeast2004 Profile Views" />
+</p>
 
 
 <!-- Footer Wave -->
