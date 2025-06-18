@@ -8,13 +8,13 @@
 </p>
 
 <!-- Dual GIF Table -->
-<table align="center">
+<table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
-    <td align="center">
-      <img src="cat.gif" width="400" alt="Coding Hero GIF 1" />
+    <td width="50%" align="center">
+      <img src="dev.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
     </td>
-    <td align="center">
-      <img src="cart.gif" width="400" alt="Coding Hero GIF 2" />
+    <td width="60%" align="center">
+      <img src="cat.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
     </td>
   </tr>
 </table>
