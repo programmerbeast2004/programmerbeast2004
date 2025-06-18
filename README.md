@@ -7,22 +7,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=1100&lines=Hi+,+I'm+Apoorv+Mehrotra;Data+Scientist+in+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<!-- Hero GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Hero Coding" />
-</p>
+<!-- Dual GIF Table -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="cat.gif" width="400" alt="Coding Hero GIF 1" />
+    </td>
+    <td align="center">
+      <img src="cart.gif" width="400" alt="Coding Hero GIF 2" />
+    </td>
+  </tr>
+</table>
+
 
 ---
+
+<div align="center">
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE @ GLA University (AI/ML + IoT Specialization)
-- 💡 I love building intelligent apps, automation tools, and game-changing solutions
-- 🌱 Currently learning: Advanced ML, Firebase, Jetpack Compose, and full-stack tech
-- 💬 Ask me about anything tech, and we’ll explore together
-- ⚡ Fun fact: I love combining software with hardware and storytelling
+<img src="cart.gif" width="400" alt="Coding Hero GIF 2" />
 
----
+-->🎓 B.Tech CSE @ GLA University (AI/ML + IoT Specialization)  
+-->💡 I love building intelligent apps, automation tools, and game-changing solutions  
+-->🌱 Currently learning: Advanced ML, Firebase, Jetpack Compose, and full-stack tech  
+-->💬 Ask me about anything tech, and we’ll explore together  
+-->⚡ Fun fact: I love combining software with hardware and storytelling  
+
+
 
 ## 📊 GitHub Overview
 
@@ -104,6 +116,7 @@
 <p align="center"><i>“You can’t use up creativity. The more you use, the more you have.” — Maya Angelou</i></p>
 
 ---
+</div>
 
 
 
