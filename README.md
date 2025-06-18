@@ -86,7 +86,7 @@
   <a href="https://discord.com/users/mr._.0._.0._." target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/apoorv-mehrotra-089947288/" target="_blank">
+  <a href="https://www.linkedin.com/in/its-apoorv-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
 </p>
@@ -113,7 +113,12 @@
 <p align="center">
   <img src="goku.gif" width="300" alt="Creative Spark" />
 </p>
-<p align="center"><i>“You can’t use up creativity. The more you use, the more you have.” — Maya Angelou</i></p>
+
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=nightowl&animation=default&layout=default&font=Redressed&quoteType=random&bgColor=black&fontColor=yellow&borderColor=orange" alt="Random Creative Quote" />
+</p>
+
+---
 
 ---
 </div>
