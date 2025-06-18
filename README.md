@@ -1,3 +1,5 @@
+
+<!-- Title Section -->
 <h1 align="center">Hi, I'm Apoorv Mehrotra! 👋</h1>
 <h3 align="center">A passionate developer exploring new technologies to enhance my skills and build innovative solutions.</h3>
 
@@ -6,58 +8,107 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Data+Scientist+in+the+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<!-- Rocket Image -->
+<!-- Hero GIF -->
 <p align="center">
-  <img src="rocket.webp" alt="Banner" width="100%" style="max-width: 800px; height: auto;"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Hero Coding" />
 </p>
 
-<!-- GitHub Stats Section -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" width="100%" style="max-width: 500px; height: auto;" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=dracula&hide_border=false" width="100%" style="max-width: 500px; height: auto;" alt="Top Languages"/>
-</div>
+---
 
-<!-- Tech Stack & Socials -->
+## 🧠 About Me
+
+- 🎓 B.Tech CSE @ GLA University (AI/ML + IoT Specialization)
+- 💡 I love building intelligent apps, automation tools, and game-changing solutions
+- 🌱 Currently learning: Advanced ML, Firebase, Jetpack Compose, and full-stack tech
+- 💬 Ask me about anything tech, and we’ll explore together
+- ⚡ Fun fact: I love combining software with hardware and storytelling
+
+---
+
+## 📊 GitHub Overview
+
+<!-- GitHub Stats Table -->
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
-    <!-- Left Side: GIF -->
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ24xZjZ0ZGYwczNtd3N3a3d4NnE1cW50enFid2VoaDBpcmM5YWd6NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" style="max-width: 300px; height: auto;" alt="Coding GIF" />
+    <!-- Rocket Banner -->
+    <td colspan="2" align="center">
+      <img src="rocket.webp" alt="Banner" width="75%" style="height: auto;" />
     </td>
-    <!-- Right Side: Tech Stack & Socials -->
-    <td width="60%" align="center">
-      <h2>💻 Tech Stack</h2>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="React" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="HTML5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="CSS3" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="50" alt="Android" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50" alt="Arduino" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="Java" />
-      </p>
-      <h2>🌍 Connect with Me</h2>
-      <p>
-        <a href="https://www.instagram.com/sopln_apoorv.mehrotra/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
-        </a>
-        <a href="https://discord.com/users/mr._.0._.0._." target="_blank">
-          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
-        </a>
-        <a href="https://www.linkedin.com/in/apoorv-mehrotra-089947288/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
-        </a>
-      </p>
+  </tr>
+  <tr>
+    <!-- GitHub Stats -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
+    </td>
+    <!-- Top Languages -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=radical&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
     </td>
   </tr>
 </table>
-<div align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=nightowl&animated=true"width="100%" style="max-width: 500px; height: auto; alt="LeetCode Badges" />
 
-<!-- SVG Wave Animation Footer -->
+<br/>
+
+## 🧰 Tech Stack
+
 <p align="center">
-  <img src="/wave (1).svg" alt="Wave Animation" width="100%" style="max-width: 800px; height: auto;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="50" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="Java" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.instagram.com/sopln_apoorv.mehrotra/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+  </a>
+  <a href="https://discord.com/users/mr._.0._.0._." target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/apoorv-mehrotra-089947288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
+</p>
+
+---
+
+## 🚀 My Dev Playground
+
+<table align="center" width="100%" style="max-width: 900px; margin: auto;">
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" style="max-width: 280px;" alt="Coding Dev" />
+    </td>
+    <td width="60%" align="center">
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=nightowl&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎨 Fun & Creativity
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Xi2Xu0MejhsUo/giphy.gif" width="300" alt="Creative Spark" />
+</p>
+<p align="center"><i>“You can’t use up creativity. The more you use, the more you have.” — Maya Angelou</i></p>
+
+---
+
+
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/programmerbeast2004/programmerbeast2004/main/wave%20(1).svg" width="100%" />
 </p>
