@@ -1,11 +1,10 @@
 
 <!-- Title Section -->
-<h1 align="center">Hi, I'm Apoorv Mehrotra! 👋</h1>
-<h3 align="center">A passionate developer exploring new technologies to enhance my skills and build innovative solutions.</h3>
+
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Data+Scientist+in+the+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Hi+,+I'm+Apoorv+Mehrotra;Data+Scientist+in+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <!-- Hero GIF -->
@@ -32,7 +31,7 @@
   <tr>
     <!-- Rocket Banner -->
     <td colspan="2" align="center">
-      <img src="rocket.webp" alt="Banner" width="75%" style="height: auto;" />
+      <img src="rocket.gif" alt="Banner" width="75%" style="height: auto;" />
     </td>
   </tr>
   <tr>
