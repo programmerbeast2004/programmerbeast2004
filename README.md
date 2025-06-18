@@ -1,15 +1,15 @@
 
 <!-- Title Section -->
-<img src="head.gif" alt="Banner" width="100%" style="height: auto;" />
+<img src="car.gif" alt="Banner" width="100%" style="height: auto;" />
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Hi+,+I'm+Apoorv+Mehrotra;Data+Scientist+in+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=1100&lines=Hi+,+I'm+Apoorv+Mehrotra;Data+Scientist+in+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <!-- Hero GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Hero Coding" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Hero Coding" />
 </p>
 
 ---
