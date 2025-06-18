@@ -56,9 +56,21 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=radical&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
     </td>
   </tr>
+  <td colspan="2" align="center">
+      <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=programmerbeast2004&theme=java-dark&hide_border=true&card_width="100%" alt="GitHub Streak" /></a>
+    </td>
+  <tr>
+    <!-- GitHub Trophies -->
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=programmerbeast2004&theme=juicyfresh&no-frame=true&column=6&margin-w=10&margin-h=15" width="95%" style="max-width: 900px; height: auto;" alt="GitHub Trophies" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Contribution Streak -->
+    
+  </tr>
 </table>
 
-<br/>
 
 ## 🧰 Tech Stack
 
