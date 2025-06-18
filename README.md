@@ -99,7 +99,7 @@
 ## 🎨 Fun & Creativity
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Xi2Xu0MejhsUo/giphy.gif" width="300" alt="Creative Spark" />
+  <img src="goku.gif" width="300" alt="Creative Spark" />
 </p>
 <p align="center"><i>“You can’t use up creativity. The more you use, the more you have.” — Maya Angelou</i></p>
 
