@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Title Section -->
-<img src="car.gif" alt="Banner" width="100%" style="height: auto;" />
+<img src="car.gif" alt="Banner" width="100%" style="max-width: 900px; height: auto; border-radius: 12px;" />
 
 
 
