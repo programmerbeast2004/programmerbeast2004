@@ -154,7 +154,7 @@
     <!-- Right Side: Green Brick Wall -->
     <td align="center" style="
       padding: 20px;
-      background: 
+      background:
         repeating-linear-gradient(
           90deg,
           #4CAF50,
@@ -174,25 +174,34 @@
       border-radius: 12px;
       box-shadow: 0 0 10px rgba(0,0,0,0.2);
     ">
-      <!-- Social Media Links -->
-      <div style="margin-bottom: 20px;">
-        <a href="https://www.instagram.com/sopln_apoorv.mehrotra/" target="_blank" style="margin: 8px; display: inline-block;">
+      <!-- Social Row 1 -->
+      <div style="margin-bottom: 10px;">
+        <a href="https://www.instagram.com/sopln_apoorv.mehrotra/" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
-        <a href="https://discord.com/users/mr._.0._.0._." target="_blank" style="margin: 8px; display: inline-block;">
+        <a href="https://discord.com/users/mr._.0._.0._." target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
         </a>
-        <a href="https://www.linkedin.com/in/its-apoorv-/" target="_blank" style="margin: 8px; display: inline-block;">
+      </div>
+      <!-- Social Row 2 (Centered) -->
+      <div style="margin-bottom: 10px;">
+        <a href="https://www.linkedin.com/in/its-apoorv-/" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </div>
-      <!-- Coding Profiles -->
-      <div>
-        <a href="https://leetcode.com/programmer_exe/" target="_blank" style="margin: 8px; display: inline-block;">
+      <!-- Coding Profiles Row 3 -->
+      <div style="margin-bottom: 10px;">
+        <a href="https://leetcode.com/programmer_exe/" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
-        <a href="https://codeforces.com/profile/The_Better_Coder" target="_blank" style="margin: 8px; display: inline-block;">
+        <a href="https://codeforces.com/profile/The_Better_Coder" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+        </a>
+      </div>
+      <!-- Medium Row 4 (Centered like a base) -->
+      <div>
+        <a href="https://medium.com/@be.uniqu..e" target="_blank" style="margin: 4px; display: inline-block;">
+          <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
         </a>
       </div>
     </td>
