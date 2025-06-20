@@ -1,38 +1,17 @@
-
+<div align="center">
 <!-- Title Section -->
 <img src="car.gif" alt="Banner" width="100%" style="height: auto;" />
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=1100&lines=Hi+,+I'm+Apoorv+Mehrotra;Data+Scientist+in+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
 
-<!-- Dual GIF Table -->
-<table align="center" width="100%" style="max-width: 900px; margin: auto;">
-  <tr>
-    <td width="50%" align="center">
-      <img src="wolf.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
-    </td>
-    <td width="50%" align="center">
-      <img src="pke.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
-    </td>
-  </tr>
-</table>
 
 
 ---
 
-<div align="center">
+
 
 ## 🧠 About Me
 
-<img src="cart.gif" width="400" alt="Coding Hero GIF 2" />
-
--->🎓 B.Tech CSE @ GLA University (AI/ML + IoT Specialization)  
--->💡 I love building intelligent apps, automation tools, and game-changing solutions  
--->🌱 Currently learning: Advanced ML, Firebase, Jetpack Compose, and full-stack tech  
--->💬 Ask me about anything tech, and we’ll explore together  
--->⚡ Fun fact: I love combining software with hardware and storytelling  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Welcome+Devs%2C;Hey+%F0%9F%91%8B+I'm+Apoorv+Mehrotra+;-+An+aspiring+Data+Scientist+fueled+by+curiousity.;-Pre-Final+Year+;-Pursuing+B.Tech+CSE(AI%2FML+%26+IoT);-Exploring+deep+learning%2C+predictive+modeling+%26+big+data.;-Always+questioning%2C+analyzing%2C+and+optimizing.;-On+a+mission+to+turn+complex+data+into+powerful+insights." alt="Typing SVG" /></a>
 
 
 
@@ -90,18 +69,63 @@
 ---
 
 ## 🔗 Connect with Me
-<img src="connect.gif" width="80%" style="max-width: 300px;" alt="Coding Dev" />
-<p align="center">
-  <a href="https://www.instagram.com/sopln_apoorv.mehrotra/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
-  </a>
-  <a href="https://discord.com/users/mr._.0._.0._." target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/its-apoorv-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <!-- Left Side: GIF -->
+    <td width="65%" align="center">
+      <img src="cart.gif" alt="Coding Dev" width="100%" />
+    </td>
+    <!-- Right Side: Green Brick Wall -->
+    <td align="center" style="
+      padding: 20px;
+      background: 
+        repeating-linear-gradient(
+          90deg,
+          #4CAF50,
+          #4CAF50 40px,
+          #388E3C 40px,
+          #388E3C 42px
+        ),
+        repeating-linear-gradient(
+          0deg,
+          #4CAF50,
+          #4CAF50 40px,
+          #388E3C 40px,
+          #388E3C 42px
+        );
+      background-size: 42px 42px;
+      background-position: 0 0;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    ">
+      <!-- Social Media Links -->
+      <div style="margin-bottom: 20px;">
+        <a href="https://www.instagram.com/sopln_apoorv.mehrotra/" target="_blank" style="margin: 8px; display: inline-block;">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+        <a href="https://discord.com/users/mr._.0._.0._." target="_blank" style="margin: 8px; display: inline-block;">
+          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+        </a>
+        <a href="https://www.linkedin.com/in/its-apoorv-/" target="_blank" style="margin: 8px; display: inline-block;">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </div>
+      <!-- Coding Profiles -->
+      <div>
+        <a href="https://leetcode.com/programmer_exe/" target="_blank" style="margin: 8px; display: inline-block;">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        </a>
+        <a href="https://codeforces.com/profile/The_Better_Coder" target="_blank" style="margin: 8px; display: inline-block;">
+          <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</tabl
+
+
+
+
 
 ---
 
@@ -120,15 +144,19 @@
 
 ---
 
-## 🎨 Fun & Creativity
 
-<p align="center">
-  <img src="goku.gif" width="300" alt="Creative Spark" />
-</p>
+<table align="center" width="100%" style="max-width: 900px; margin: auto;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="goku.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
+    </td>
+    <td width="50%" align="center">
+      <h1>🎨 Random Quotes</h1>
+      <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=nightowl&animation=default&layout=default&font=Redressed&quoteType=random&bgColor=black&fontColor=yellow&borderColor=orange" alt="Random Creative Quote" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=nightowl&animation=default&layout=default&font=Redressed&quoteType=random&bgColor=black&fontColor=yellow&borderColor=orange" alt="Random Creative Quote" />
-</p>
 
 ---
 
