@@ -17,54 +17,116 @@
 
 ## 📊 GitHub Overview
 
+## 📊 GitHub Overview
+
 <!-- GitHub Stats Table -->
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
+  <!-- Rocket Banner -->
   <tr>
-    <!-- Rocket Banner -->
     <td colspan="2" align="center">
       <img src="rocket.gif" alt="Banner" width="75%" style="height: auto;" />
     </td>
   </tr>
+
+  <!-- GitHub Stats & Top Languages -->
   <tr>
-    <!-- GitHub Stats -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
+      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
+      </div>
     </td>
-    <!-- Top Languages -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=radical&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
+      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=radical&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
+      </div>
     </td>
   </tr>
-  <td colspan="2" align="center">
-      <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=programmerbeast2004&theme=java-dark&hide_border=true&card_width="100%" alt="GitHub Streak" /></a>
-    </td>
+
+  <!-- GitHub Streak & Trophies -->
   <tr>
-    <!-- GitHub Trophies -->
+    <td align="center" width="50%">
+      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
+        <a href="https://git.io/streak-stats">
+          <img src="https://git-hub-streak-stats.vercel.app?user=programmerbeast2004&theme=java-dark&hide_border=true" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
+        </a>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=programmerbeast2004&theme=2077" width="95%" style="max-width: 450px; height: auto;" alt="General stats badge" />
+      </div>
+    </td>
+  </tr>
+
+  <!-- Profile Details Graph (unchanged) -->
+  <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=programmerbeast2004&theme=juicyfresh&no-frame=true&column=6&margin-w=10&margin-h=15" width="95%" style="max-width: 900px; height: auto;" alt="GitHub Trophies" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programmerbeast2004&theme=github_dark" alt="Profile details badge" />
     </td>
-  </tr>
-  <tr>
-    <!-- Contribution Streak -->
-    
   </tr>
 </table>
 
 
 ## 🧰 Tech Stack
+<!-- ──────────────────────────────────────────────── -->
+<!-- Cool‑Style Tech‑Stack │ skill‑icons CDN         -->
+<!-- https://github.com/tandpfun/skill-icons         -->
+<!-- ──────────────────────────────────────────────── -->
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="50" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="Java" />
+<!-- Shared inline‑style keeps GitHub‑safe properties only -->
+<!-- (GitHub strips <style> tags) -->
+<!-- Change height / border / radius globally if you like -->
+<p hidden id="iconStyle"
+   style="border:2px solid #e1e4e8;border-radius:12px;padding:6px;margin:6px;
+          background:#ffffff;">
 </p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg"      alt="JavaScript"     height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg"      alt="React"          height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NextJS-Light.svg"    alt="Next.js"        height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg"            alt="HTML5"          height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg"             alt="CSS3"           height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" height="50" style="var(--iconStyle)" />
+</p>
+
+### 📱 Software Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AndroidStudio-Light.svg" alt="Android"   height="50" style="var(--iconStyle)" />= 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Flutter"   height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Light.svg"          alt="Java"      height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="Java"   height="50" style="var(--iconStyle)"/>
+</p>
+
+### 🧠 Data Science & Gen AI
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg"       alt="Python"       height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Python"       height="50" style="var(--iconStyle)"  />     
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TensorFlow-Dark.svg"   alt="TensorFlow"   height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PyTorch-Light.svg"     alt="PyTorch"      height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" alt="PyTorch"  height="50" style="var(--iconStyle)" />
+          
+</p>
+
+### ⚙️ Backend / Frameworks
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg"       alt="Node.js"      height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg"   alt="Express"      height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Django.svg"            alt="Django"       height="50" style="var(--iconStyle)" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  alt="Django"       height="50" style="var(--iconStyle)" />
+          
+</p>
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg"           alt="MongoDB"      height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg"        alt="MySQL"        height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg"               alt="Git"          height="50" style="var(--iconStyle)" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg"      alt="GitHub"       height="50" style="var(--iconStyle)" />
+</p>
+
+<!-- ──────────────────────────────────────────────── -->
 
 ---
 
