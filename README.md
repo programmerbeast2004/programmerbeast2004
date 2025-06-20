@@ -15,7 +15,7 @@
 
 
 
-## 📊 GitHub Overview
+---
 
 ## 📊 GitHub Overview
 
@@ -66,67 +66,81 @@
   </tr>
 </table>
 
+---
+
 
 ## 🧰 Tech Stack
-<!-- ──────────────────────────────────────────────── -->
-<!-- Cool‑Style Tech‑Stack │ skill‑icons CDN         -->
-<!-- https://github.com/tandpfun/skill-icons         -->
-<!-- ──────────────────────────────────────────────── -->
+<!-- 🧰 TECH STACK TABLE | Equal Icons Per Row | GitHub-Safe -->
 
-<!-- Shared inline‑style keeps GitHub‑safe properties only -->
-<!-- (GitHub strips <style> tags) -->
-<!-- Change height / border / radius globally if you like -->
-<p hidden id="iconStyle"
-   style="border:2px solid #e1e4e8;border-radius:12px;padding:6px;margin:6px;
-          background:#ffffff;">
-</p>
+<table align="center" width="100%" style="max-width: 950px; text-align: center;">
 
-### 🌐 Web Development
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg"      alt="JavaScript"     height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg"      alt="React"          height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NextJS-Light.svg"    alt="Next.js"        height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg"            alt="HTML5"          height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg"             alt="CSS3"           height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" height="50" style="var(--iconStyle)" />
-</p>
+  <!-- 🌐 Web Development -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">🌐 Web Development</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NextJS-Light.svg" height="50" title="Next.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" title="CSS3" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" height="50" title="Tailwind CSS" /></td>
+  </tr>
 
-### 📱 Software Development
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AndroidStudio-Light.svg" alt="Android"   height="50" style="var(--iconStyle)" />= 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Flutter"   height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Light.svg"          alt="Java"      height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="Java"   height="50" style="var(--iconStyle)"/>
-</p>
+  <!-- 📱 Software Development -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">📱 Software Development</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AndroidStudio-Light.svg" height="50" title="Android Studio" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" title="Linux" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Light.svg" height="50" title="Java" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" title="C++" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Flutter-Light.svg" height="50" title="Flutter" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Firebase-Light.svg" height="50" title="Firebase" /></td>
+  </tr>
 
-### 🧠 Data Science & Gen AI
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg"       alt="Python"       height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Python"       height="50" style="var(--iconStyle)"  />     
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TensorFlow-Dark.svg"   alt="TensorFlow"   height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PyTorch-Light.svg"     alt="PyTorch"      height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" alt="PyTorch"  height="50" style="var(--iconStyle)" />
-          
-</p>
+  <!-- 🧠 Data Science & Gen AI -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">🧠 Data Science & Gen AI</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" title="NumPy" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TensorFlow-Dark.svg" height="50" title="TensorFlow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PyTorch-Light.svg" height="50" title="PyTorch" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" title="Pandas" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="50" title="OpenAI" /></td>
+  </tr>
 
-### ⚙️ Backend / Frameworks
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg"       alt="Node.js"      height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg"   alt="Express"      height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Django.svg"            alt="Django"       height="50" style="var(--iconStyle)" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  alt="Django"       height="50" style="var(--iconStyle)" />
-          
-</p>
+  <!-- ⚙️ Backend & Frameworks -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">⚙️ Backend & Frameworks</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" title="Node.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg" height="50" title="Express.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Django.svg" height="50" title="Django" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="50" title="FastAPI" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" title="Postman" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" title="Bash" /></td>
+  </tr>
 
-### 🗄️ Databases & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg"           alt="MongoDB"      height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg"        alt="MySQL"        height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg"               alt="Git"          height="50" style="var(--iconStyle)" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg"      alt="GitHub"       height="50" style="var(--iconStyle)" />
-</p>
+  <!-- 🗄️ Databases & Tools -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Databases & Tools</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="50" title="MongoDB" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height="50" title="SQLite" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" height="50" title="Git" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Light.svg" height="50" title="Vercel" /></td>
+  </tr>
 
-<!-- ──────────────────────────────────────────────── -->
+</table>
+
 
 ---
 
