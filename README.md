@@ -121,7 +121,7 @@
       </div>
     </td>
   </tr>
-</tabl
+</table>
 
 
 
