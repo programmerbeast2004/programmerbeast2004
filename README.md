@@ -32,36 +32,31 @@
   <tr>
     <td align="center" width="50%">
       <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
       </div>
     </td>
     <td align="center" width="50%">
       <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=radical&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
       </div>
     </td>
   </tr>
 
   <!-- GitHub Streak & Trophies -->
+  
   <tr>
-    <td align="center" width="50%">
-      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <a href="https://git.io/streak-stats">
-          <img src="https://git-hub-streak-stats.vercel.app?user=programmerbeast2004&theme=java-dark&hide_border=true" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
+    <td colspan="2" align="center">
+      <a href="https://git.io/streak-stats">
+          <img src="https://git-hub-streak-stats.vercel.app?user=programmerbeast2004&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
         </a>
-      </div>
-    </td>
-    <td align="center" width="50%">
-      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=programmerbeast2004&theme=2077" width="95%" style="max-width: 450px; height: auto;" alt="General stats badge" />
-      </div>
     </td>
   </tr>
+
 
   <!-- Profile Details Graph (unchanged) -->
   <tr>
     <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programmerbeast2004&theme=github_dark" alt="Profile details badge" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programmerbeast2004&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Profile details badge" />
     </td>
   </tr>
 </table>
@@ -222,7 +217,7 @@
       <img src="dev.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
     </td>
     <td width="60%" align="center">
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=nightowl&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=dark&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
     </td>
   </tr>
 </table>
@@ -230,17 +225,28 @@
 ---
 
 
+<!-- Quote of the Day + GIF Section -->
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
-    <td width="50%" align="center">
-      <img src="goku.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
+    <!-- Left: Goku GIF -->
+    <td width="50%" align="center" style="padding: 10px;">
+      <img src="goku.gif" width="100%" style="max-width: 450px; border-radius: 10px;" alt="Goku Coding" />
     </td>
-    <td width="50%" align="center">
-      <h1>🎨 Random Quotes</h1>
-      <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=nightowl&animation=default&layout=default&font=Redressed&quoteType=random&bgColor=black&fontColor=yellow&borderColor=orange" alt="Random Creative Quote" />
+    <!-- Right: Quote of the Day -->
+    <td width="50%" align="center" style="padding: 10px;">
+      <h2 style="color: yellow; font-family: 'Segoe UI', sans-serif;">💡 Quote of the Day</h2>
+      <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank">
+        <img 
+          src="https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry-dark&animation=default&layout=churchill&font=PixelifySans&quoteType=quote-for-the-day&bgColor=black&fontColor=yellow" 
+          alt="Daily Inspirational Quote"
+          width="100%"
+          style="max-width: 500px; border-radius: 80px;" 
+        />
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 ---
