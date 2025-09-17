@@ -11,7 +11,9 @@
 
 ## 🧠 About Me
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Welcome+Devs%2C;Hey+%F0%9F%91%8B+I'm+Apoorv+Mehrotra+;-+An+aspiring+Data+Scientist+fueled+by+curiousity.;-Pre-Final+Year+;-Pursuing+B.Tech+CSE(AI%2FML+%26+IoT);-Exploring+deep+learning%2C+predictive+modeling+%26+big+data.;-Always+questioning%2C+analyzing%2C+and+optimizing.;-On+a+mission+to+turn+complex+data+into+powerful+insights." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=FF4500&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Welcome+Devs%2C;Hey+%F0%9F%91%8B+I'm+Apoorv+Mehrotra+;-+An+aspiring+Data+Scientist+fueled+by+curiousity.;-Pre-Final+Year+;-Pursuing+B.Tech+CSE(AI%2FML+%26+IoT);-Exploring+deep+learning%2C+predictive+modeling+%26+big+data.;-Always+questioning%2C+analyzing%2C+and+optimizing.;-On+a+mission+to+turn+complex+data+into+powerful+insights." alt="Typing SVG" />
+</a>
 
 
 
