@@ -226,6 +226,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://svg-snake-readme.onrender.com/api/snake" width="300" />
+</p>
+
+---
+
 
 <!-- Quote of the Day + GIF Section -->
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
