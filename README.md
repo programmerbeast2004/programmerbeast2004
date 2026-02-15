@@ -22,46 +22,51 @@
 ## 📊 GitHub Overview
 
 <!-- GitHub Stats Table -->
-<table align="center" width="100%" style="max-width: 900px; margin: auto;">
-  <!-- Rocket Banner -->
+<table align="center" width="100%" style="max-width: 1000px; margin: auto;">
+
+  <!-- 🚀 Rocket Banner -->
   <tr>
-    <td colspan="2" align="center">
-      <img src="rocket.gif" alt="Banner" width="75%" style="height: auto;" />
+    <td colspan="2" align="center" style="padding-bottom: 20px;">
+      <img src="rocket.gif" alt="Banner" width="70%" style="height: auto;" />
     </td>
   </tr>
 
-  <!-- GitHub Stats & Top Languages -->
+  <!-- 🔥 GitHub Streak + GitHub Stats -->
   <tr>
-    <td align="center" width="50%">
-      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
-      </div>
+    <td align="center" width="50%" style="padding: 10px;">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=programmerbeast2004&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"
+        alt="GitHub Streak"
+        width="95%"
+        style="max-width: 450px;"
+      />
     </td>
-    <td align="center" width="50%">
-      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
-      </div>
+  </tr>
+  <!-- 📊 Contribution Graph -->
+  <tr>
+    <td colspan="2" align="center" style="padding: 14px;">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=programmerbeast2004&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph"
+        alt="Contribution Graph"
+        width="98%"
+      />
     </td>
   </tr>
 
-  <!-- GitHub Streak & Trophies -->
-  
+  <!-- 🧠 Top Languages + Productive Time -->
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://git.io/streak-stats">
-          <img src="https://git-hub-streak-stats.vercel.app?user=programmerbeast2004&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
-        </a>
+    <td align="center" width="50%" style="padding: 10px;">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=programmerbeast2004&theme=algolia&utcOffset=5.5"
+        alt="Productive Time"
+        width="95%"
+        style="max-width: 450px;"
+      />
     </td>
   </tr>
 
-
-  <!-- Profile Details Graph (unchanged) -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programmerbeast2004&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Profile details badge" />
-    </td>
-  </tr>
 </table>
+
 
 ---
 
@@ -213,16 +218,46 @@
 
 ## 🚀 My Dev Playground
 
-<table align="center" width="100%" style="max-width: 900px; margin: auto;">
+<table align="center" width="100%" style="max-width: 1100px; margin: auto;">
   <tr>
-    <td width="50%" align="center">
-      <img src="dev.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
+    <!-- LEFT: DEV GIF -->
+    <td width="50%" align="center" style="padding: 14px;">
+      <img
+        src="dev.gif"
+        alt="Coding Dev"
+        width="100%"
+        style="
+          max-width: 480px;
+          border-radius: 16px;
+        "
+      />
     </td>
-    <td width="60%" align="center">
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=github-dark&border=border&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
+    <!-- RIGHT: LEETCODE STATS + BADGES -->
+    <td width="50%" align="center" style="padding: 14px;">
+      <!-- LeetCode Stats / Rating (COLOR-SYNCED) -->
+      <img
+        src="https://leetcard.jacoblin.cool/programmer_exe?theme=dark&font=Ubuntu&colors=%230d1117%2C%2358a6ff%2C%2358a6ff%2C%238b949e%2C%2358a6ff%2C%2358a6ff%2C%2330363d%2C%23c9d1d9&ext=contest"
+        alt="LeetCode Stats"
+        width="100%"
+        style="
+          max-width: 420px;
+          margin-bottom: 18px;
+        "
+      />
+      <!-- LeetCode Badges (SAME DARK THEME) -->
+      <img
+        src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=github-dark&animated=true"
+        alt="LeetCode Badges"
+        width="100%"
+        style="
+          max-width: 420px;
+        "
+      />
     </td>
   </tr>
 </table>
+
+
 
 ---
 
