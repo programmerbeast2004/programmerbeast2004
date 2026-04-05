@@ -246,7 +246,7 @@
       />
       <!-- LeetCode Badges (SAME DARK THEME) -->
       <img
-        src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=github-dark&animated=true"
+        src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=github-dark&animated=false"
         alt="LeetCode Badges"
         width="100%"
         style="
