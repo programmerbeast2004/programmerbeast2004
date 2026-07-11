@@ -1,7 +1,8 @@
 <div align="center">
 <!-- Title Section -->
-<img src="car.gif" alt="Banner" width="100%" style="max-width: 900px; height: auto; border-radius: 12px;" />
-
+ <div align="center">
+  <img src="https://asciify-teal.vercel.app/api/card?username=programmerbeast2004&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="asciify card" />
+</div>
 
 
 
@@ -25,9 +26,9 @@
 <table align="center" width="100%" style="max-width: 1000px; margin: auto;">
 
   <!-- 🚀 Rocket Banner -->
- <div align="center">
-  <img src="https://asciify-teal.vercel.app/api/card?username=programmerbeast2004&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="asciify card" />
-</div>
+  <img src="car.gif" alt="Banner" width="100%" style="max-width: 900px; height: auto; border-radius: 12px;" />
+
+
 
   <!-- 🔥 GitHub Streak + GitHub Stats -->
   <tr>
