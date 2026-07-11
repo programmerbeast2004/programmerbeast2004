@@ -25,11 +25,9 @@
 <table align="center" width="100%" style="max-width: 1000px; margin: auto;">
 
   <!-- 🚀 Rocket Banner -->
-  <tr>
-    <td colspan="2" align="center" style="padding-bottom: 20px;">
-      <img src="rocket.gif" alt="Banner" width="70%" style="height: auto;" />
-    </td>
-  </tr>
+ <div align="center">
+  <img src="https://asciify-teal.vercel.app/api/card?username=programmerbeast2004&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="asciify card" />
+</div>
 
   <!-- 🔥 GitHub Streak + GitHub Stats -->
   <tr>
@@ -296,9 +294,7 @@
 
 ---
 </div>
-<div align="center">
-  <img src="https://asciify-teal.vercel.app/api/card?username=programmerbeast2004&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="asciify card" />
-</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=programmerbeast2004&label=FANS&color=blue&style=flat" alt="programmerbeast2004 Profile Views" />
