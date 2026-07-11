@@ -296,6 +296,9 @@
 
 ---
 </div>
+<div align="center">
+  <img src="https://asciify-teal.vercel.app/api/card?username=programmerbeast2004&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="asciify card" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=programmerbeast2004&label=FANS&color=blue&style=flat" alt="programmerbeast2004 Profile Views" />
