@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Title Section -->
  <div align="center">
-  <img src="https://asciify-teal.vercel.app/api/card?username=programmerbeast2004&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="asciify card" />
+  <img src="https://asciify.its-apoorv.me/api/card?username=programmerbeast2004&custom_image=https%3A%2F%2Fi.pinimg.com%2F736x%2F71%2F0c%2F43%2F710c436c31967c95b4c173e1cd7bd78c.jpg&bio=PolyMath&hide_repos=true&hide_followers=true&hide_company=true&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&corner_radius=0" alt="asciify card" />
 </div>
 
 
