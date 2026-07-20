@@ -146,67 +146,60 @@
 ---
 
 ## 🔗 Connect with Me
-<table>
-  <tr>
-    <!-- Left Side: GIF -->
-    <td width="65%" align="center">
-      <img src="cart.gif" alt="Coding Dev" width="100%" />
-    </td>
-    <!-- Right Side: Green Brick Wall -->
-    <td align="center" style="
-      padding: 20px;
-      background:
-        repeating-linear-gradient(
-          90deg,
-          #4CAF50,
-          #4CAF50 40px,
-          #388E3C 40px,
-          #388E3C 42px
-        ),
-        repeating-linear-gradient(
-          0deg,
-          #4CAF50,
-          #4CAF50 40px,
-          #388E3C 40px,
-          #388E3C 42px
-        );
-      background-size: 42px 42px;
-      background-position: 0 0;
-      border-radius: 12px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.2);
-    ">
-      <!-- Social Row 1 -->
-      <div style="margin-bottom: 10px;">
-        <a href="https://www.instagram.com/sopln_apoorv.mehrotra/" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-        <a href="https://discord.com/users/mr._.0._.0._." target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-        </a>
-      </div>
-      <!-- Social Row 2 (Centered) -->
-      <div style="margin-bottom: 10px;">
-        <a href="https://www.linkedin.com/in/its-apoorv-/" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </div>
-      <!-- Coding Profiles Row 3 -->
-      <div style="margin-bottom: 10px;">
-        <a href="https://leetcode.com/programmer_exe/" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-        </a>
-        <a href="https://codeforces.com/profile/The_Better_Coder" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-        </a>
-      </div>
-      <!-- Medium Row 4 (Centered like a base) -->
-      <div>
-        <a href="https://medium.com/@be.uniqu..e" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+
+<td width="60%" align="center">
+
+<img src="cart.gif" width="100%" alt="Coding Dev"/>
+
+</td>
+
+<td width="40%" align="center">
+
+<a href="https://www.instagram.com/sopln_apoorv.mehrotra/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/mr._.0._.0._.">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/its-apoorv-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br>
+
+<a href="https://leetcode.com/programmer_exe/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/The_Better_Coder">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<br>
+
+<a href="https://x.com/Xandros07">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br>
+
+<a href="https://medium.com/@be.uniqu..e">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.its-apoorv.me/">
+<img src="https://img.shields.io/badge/Portfolio-5C6BC0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
 </table>
 
 
