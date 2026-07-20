@@ -233,25 +233,9 @@
     </td>
     <!-- RIGHT: LEETCODE STATS + BADGES -->
     <td width="50%" align="center" style="padding: 14px;">
-      <!-- LeetCode Stats / Rating (COLOR-SYNCED) -->
-      <img
-        src="https://leetcard.jacoblin.cool/programmer_exe?theme=dark&font=Ubuntu&colors=%230d1117%2C%2358a6ff%2C%2358a6ff%2C%238b949e%2C%2358a6ff%2C%2358a6ff%2C%2330363d%2C%23c9d1d9&ext=contest"
-        alt="LeetCode Stats"
-        width="100%"
-        style="
-          max-width: 420px;
-          margin-bottom: 18px;
-        "
-      />
-      <!-- LeetCode Badges (SAME DARK THEME) -->
-      <img
-        src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=github-dark&animated=false"
-        alt="LeetCode Badges"
-        width="100%"
-        style="
-          max-width: 420px;
-        "
-      />
+     <div align="right">
+  <img src="https://asciify.its-apoorv.me/api/leetcode?username=programmer_exe&font_family=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify LeetCode Stats" />
+</div>      
     </td>
   </tr>
 </table>
